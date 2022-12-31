@@ -9,6 +9,7 @@ clone repo
  Install dependancies
   - pip install -r requirements.txt
   - npm install\
+ 
  Deploy application
   - cdk deploy
 
