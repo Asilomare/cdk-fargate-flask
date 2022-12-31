@@ -4,12 +4,12 @@ clone repo
   - git clone https://github.com/Asilomare/cdk-fargate-flask ./\
  move directories
   - cd kube_stack\
- activate virtual env
+ Activate virtual env
   - source .venv/bin/activate\
- install dependancies
+ Install dependancies
   - pip install -r requirements.txt
   - npm install\
- deploy application
+ Deploy application
   - cdk deploy
 
 Test Application:
