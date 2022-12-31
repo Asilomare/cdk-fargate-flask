@@ -5,7 +5,7 @@ app =  Flask(__name__)
 @app.route('/')
 def home():
     try:
-        return render_template("index.html")
+        return render_template("DDOS me!!!!")
     except Exception as e:
         return str(e)
 
