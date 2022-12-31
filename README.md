@@ -1,4 +1,4 @@
-**bash $**\
+
 **Deploy Application:**\
 Clone repo
 - git clone https://github.com/Asilomare/cdk-fargate-flask ./
