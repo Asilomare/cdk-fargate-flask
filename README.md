@@ -1,8 +1,8 @@
 bash $
 Deploy Application:
 clone repo
-  - git clone https://github.com/Asilomare/cdk-fargate-flask ./
- move directories\
+  - git clone https://github.com/Asilomare/cdk-fargate-flask ./\
+ move directories
   - cd kube_stack
  activate virtual env
   - source .venv/bin/activate
