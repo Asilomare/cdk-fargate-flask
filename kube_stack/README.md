@@ -1,0 +1,1 @@
+aws cloudformation describe-stacks --stack-name KubeStackStack --query 'Stacks[0].Outputs' 
