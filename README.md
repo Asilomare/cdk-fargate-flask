@@ -2,11 +2,11 @@ bash $
 Deploy Application:
 clone repo
   - git clone https://github.com/Asilomare/cdk-fargate-flask ./
- move directories
+ move directories_
   - cd kube_stack
- activate virtual env
+ activate virtual env_
   - source .venv/bin/activate
- install dependancies
+ install dependancies_
   - pip install -r requirements.txt
   - npm install
  deploy application
