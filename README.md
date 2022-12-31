@@ -16,7 +16,7 @@ Clone repo
  Deploy application
   - cdk deploy
 
-#Test Application:
+**Test Application:**\
   Find the output of the stack
   - aws cloudformation describe-stacks --stack-name KubeStackStack --query 'Stacks[0].Outputs' 
  
@@ -24,7 +24,7 @@ Clone repo
   - docker run -it --rm ddosify/ddosify
   - ddosify -t <put the output link here> -n <request_number>
   
-#Modify Application:
+**Modify Application:**\
   On line 37 of /kube_stack/kube_stack_stack.py, change desired_count to the number of instances required\
   then deploy changes
   - cdk deploy
