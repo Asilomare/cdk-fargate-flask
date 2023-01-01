@@ -23,7 +23,7 @@ Find the output of the stack
 
 Open source load generator
 - docker run -it --rm ddosify/ddosify
-- ddosify -t <put the output link here> -n <request_number>
+- ddosify -t <put_the_output_link_here> -n <request_number>
 
 **Modify Application:**\
 On line 37 of /kube_stack/kube_stack_stack.py, change desired_count to the number of instances required\
