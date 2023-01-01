@@ -2,7 +2,7 @@
 **Deploy Application:**\
 Clone repo
 - git clone https://github.com/Asilomare/cdk-fargate-flask ./
-- 
+
 Move directories
 - cd kube_stack
 
