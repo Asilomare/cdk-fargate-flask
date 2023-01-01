@@ -7,6 +7,7 @@ Move directories
 - cd kube_stack
 
 Activate virtual env
+- virtualenv .venv
 - source .venv/bin/activate
 
 Install dependancies
